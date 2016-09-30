@@ -1,2 +1,6 @@
-# wp-amazon-link-rich-html
-This turns the WordPress Amazon Link shortcode into an closed tag so you can pass rich HTML into the %TEXT% macro. Requires Amazon Link plugin.
+# WordPress Rich HTML Extension for Amazon Link Plugin
+
+An enclosing shortcode that will execute an Amazon Link shortcode. It will pass its enclosed content as the TEXT argument of the original shortcode.
+
+Requires Amazon Link plugin.
+
