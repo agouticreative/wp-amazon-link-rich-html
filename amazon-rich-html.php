@@ -7,7 +7,7 @@
 /*
 Plugin Name: Amazon Link Rich HTML Extension
 Plugin URI:  https://developer.wordpress.org/plugins/the-basics/
-Description: This turns the Amazon Link shortcode into an closed tag so you can pass rich HTML into the %TEXT% macro
+Description: An enclosing shortcode that will execute an Amazon Link shortcode. It will pass its enclosed content as the TEXT argument of the original shortcode.
 Version:     0.1
 Author:      Travis Morrison
 Author URI:  https://travismorrisonwp.wordpress.org/
